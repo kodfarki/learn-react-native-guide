@@ -2,7 +2,11 @@
 
 ### Installation and Creating First React Native App
 
-https://github.com/react-community/create-react-native-app#getting-started
+    npm install -g create-react-native-app
+    create-react-native-app AwesomeProject
+    cd AwesomeProject
+    npm start
+
 
 #### Run application on Android simulator
 
