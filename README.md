@@ -10,11 +10,11 @@
 
 #### Run application on Android simulator
 
-npm run android
+    npm run android
 
 #### Run on IOS simulator
 
-npm run ios
+    npm run ios
 
 #### Expo
 https://itunes.apple.com/app/apple-store/id982107779
