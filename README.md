@@ -41,6 +41,7 @@ is going to change, we have to use state.
 
 
 #### Style
+
 With React Native, you don't use a special language or syntax
 for defining styles. You just style your application using
 JavaScript. All of the core components accept a prop named
