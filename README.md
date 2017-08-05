@@ -14,6 +14,7 @@ npm run ios
 
 #### Expo
 https://itunes.apple.com/app/apple-store/id982107779
+https://play.google.com/store/apps/details?id=host.exp.exponent
 
 ### Hello World Tutorial
 
@@ -47,3 +48,13 @@ JavaScript. All of the core components accept a prop named
 style. The style names and values usually match how CSS works
 on the web, except names are written using camel casing, e.g
 backgroundColor rather than background-color.
+
+One common pattern is to make your component accept a style 
+prop which in turn is used to style subcomponents. You can use
+this to make styles "cascade" the way they do in CSS.
+
+
+
+#### ES2015
+
+https://babeljs.io/learn-es2015/
