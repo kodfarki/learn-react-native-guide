@@ -13,26 +13,25 @@ npm run android
 npm run ios
 
 #### Expo
-
 https://itunes.apple.com/app/apple-store/id982107779
 
-#### Hello World Tutorial
+### Hello World Tutorial
 
 https://facebook.github.io/react-native/docs/tutorial.html
 
-#### Components
+#### Components
 
 A component can be pretty simple - the only thing that's 
 required is a render function which returns some JSX to render.
 
-#### Props
+#### Props
 
 Most components can be customized when they are created, 
 with different parameters. These creation parameters are 
 called props.
 
 
-#### State
+#### State
 
 There are two types of data that control a component: 
 props and state. props are set by the parent and they are 
@@ -40,7 +39,7 @@ fixed throughout the lifetime of a component. For data that
 is going to change, we have to use state.
 
 
-#### Style
+#### Style
 
 With React Native, you don't use a special language or syntax
 for defining styles. You just style your application using
