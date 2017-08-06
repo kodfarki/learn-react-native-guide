@@ -57,7 +57,13 @@ One common pattern is to make your component accept a style
 prop which in turn is used to style subcomponents. You can use
 this to make styles "cascade" the way they do in CSS.
 
+#### Redux Video Series
 
+One common question is how to handle the "state" of your React 
+Native application. The most popular library for this is Redux.
+Following is a vide series that explains Redux.
+
+https://egghead.io/courses/getting-started-with-redux
 
 #### ES2015
 
