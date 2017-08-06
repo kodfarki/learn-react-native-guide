@@ -62,3 +62,19 @@ this to make styles "cascade" the way they do in CSS.
 #### ES2015
 
 https://babeljs.io/learn-es2015/
+
+#### App.js Template
+
+    import React, {Component} from 'react';
+    import {StyleSheet, Text, View, AppRegistry, Image, StatusBar} from 'react-native';
+
+    export default class App extends React.Component {
+        render() {
+            return (
+                <View>
+
+                </View>
+            )
+        }
+    }
+
