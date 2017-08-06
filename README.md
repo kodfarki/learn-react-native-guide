@@ -57,6 +57,12 @@ One common pattern is to make your component accept a style
 prop which in turn is used to style subcomponents. You can use
 this to make styles "cascade" the way they do in CSS.
 
+### React Components
+
+#### React Navigation
+
+https://reactnavigation.org/docs/intro/
+
 #### Redux Video Series
 
 One common question is how to handle the "state" of your React 
