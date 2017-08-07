@@ -24,10 +24,13 @@ https://play.google.com/store/apps/details?id=host.exp.exponent
 
 https://facebook.github.io/react-native/docs/tutorial.html
 
-#### Components
+### Components
 
 A component can be pretty simple - the only thing that's 
 required is a render function which returns some JSX to render.
+
+ * View Component: https://facebook.github.io/react-native/docs/view.html
+ 
 
 #### Props
 
@@ -63,7 +66,12 @@ this to make styles "cascade" the way they do in CSS.
 
 https://reactnavigation.org/docs/intro/
 
-#### Redux Video Series
+
+### React Native Video Series
+
+https://www.youtube.com/playlist?list=PLWBrqglnjNl1LwsWW_CTzA_dSgyE3x5TQ
+
+### Redux Video Series
 
 One common question is how to handle the "state" of your React 
 Native application. The most popular library for this is Redux.
