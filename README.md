@@ -66,12 +66,28 @@ this to make styles "cascade" the way they do in CSS.
 
 https://reactnavigation.org/docs/intro/
 
+#### Redux
 
-### React Native Video Series
+Redux is a state management library. 
+It uses the concept of a global store that contains all of our app state.
+
+State is immutable so each time we change something, we create a 
+new copy of our state.
+This happens through reducers. 
+A reducer is a function that takes some state and an action, 
+and creates new state.
+
+An action is an object that tells reducers what to do. 
+Every reducer in your app gets every action that you dispatch.
+When a reducer gets called, it checks action.type and performs changes, if necessary.
+
+### Video Content 
+
+#### React Native Video Series
 
 https://www.youtube.com/playlist?list=PLWBrqglnjNl1LwsWW_CTzA_dSgyE3x5TQ
 
-### Redux Video Series
+#### Redux Video Series
 
 One common question is how to handle the "state" of your React 
 Native application. The most popular library for this is Redux.
@@ -79,7 +95,7 @@ Following is a vide series that explains Redux.
 
 https://egghead.io/courses/getting-started-with-redux
 
-#### ES2015
+### ES2015
 
 https://babeljs.io/learn-es2015/
 
