@@ -30,6 +30,8 @@ A component can be pretty simple - the only thing that's
 required is a render function which returns some JSX to render.
 
  * View Component: https://facebook.github.io/react-native/docs/view.html
+ * Text Component: https://facebook.github.io/react-native/docs/text.html
+ * 
  
 
 #### Props
